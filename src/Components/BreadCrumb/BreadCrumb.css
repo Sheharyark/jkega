@@ -1,0 +1,16 @@
+.breadCrum {
+  display: grid;
+  align-items: flex-start;
+  font-size: 1.6rem;
+  place-items: center;
+  min-height: 30px;
+  width: 100%;
+  border: 8px solid;
+  padding: 1rem;
+  background: rgb(227, 231, 237);
+  background-clip: padding-box;
+  border: solid 8px transparent;
+  border-radius: 0.8rem;
+  box-shadow: 3px -3px 0 2px rgba(255, 255, 255, 0.1);
+  margin-top: 0;
+}
